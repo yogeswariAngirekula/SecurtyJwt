@@ -1,0 +1,8 @@
+com\ctel\model\UserResponse.class
+com\ctel\model\UserRequest.class
+com\ctel\ServletIntializer.class
+com\ctel\repository\UserRepository.class
+com\ctel\service\UserService.class
+com\ctel\controller\UserController.class
+com\ctel\model\User.class
+com\ctel\StudentInfoBpclApplication.class
